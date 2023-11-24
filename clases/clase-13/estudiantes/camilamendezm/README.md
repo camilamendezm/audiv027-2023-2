@@ -33,6 +33,7 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * [Processing](https://processing.org/download)
 * TensorFlow
+* Bebidas: Bilz, Fanta, Gatorade y Kem.
 
 ### Proceso
 
