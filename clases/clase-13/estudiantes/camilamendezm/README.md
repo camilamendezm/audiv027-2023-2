@@ -22,6 +22,7 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 
 #### Proyecto funcionando
 
+[![Recinocimiento de bebidas y sus colorantes]](https://youtu.be/kJ171F8TPm0?si=oXW3VB14eV2RPeeL)
 ### Materiales
 
 * Arduino Nano 33LBLE Sense Lite
