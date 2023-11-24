@@ -51,6 +51,7 @@ Finalmente encontramos cual era el problema que impedia la realizacion de este a
 
 
 * #### Ingresar los resultados en Arduino IDE.
+Luego se coloca el archivo resultante del entrenamiento, el archivo "model.h" en la misma carpeta que el sketch "object_color_classify" para que el codigo pueda encontrarla y leer la base de datos de colores recopilados.
 
 * #### Modificar código en Arduino IDE, añadiendo una variable, cambiando los nombres y otorgarles un carácter.
 
@@ -59,6 +60,7 @@ Finalmente encontramos cual era el problema que impedia la realizacion de este a
 
 **Proccesing**
   
+(aqui agregar la info de cada colorante en la clasificacion de los nombres que supuestamente iban a salir en la graficacion, Acido carminico (rojo), Tartrazina (amarillo), Betacaroteno (naranja) y Azul brillante (FCF) (Azul).)
 * Colocar el ejemplo SimpleRead en Processing (Archivo - Ejemplos - Bibliotecas - Serial - SimpleRead).
 * Cambiar línea 22 del codigo para saber el puerto que está ocupando nuestro Arduino (captura)
 
@@ -75,6 +77,15 @@ Finalmente encontramos cual era el problema que impedia la realizacion de este a
 ## Conclusiones
 
 Aprendizajes:
+
+* #### Trabajo colaborativo
+Si bien ya habiamos trabajado de manera colaborativa en proyectos anteriores, en este caso utilizamos un Arduino con el que teniamos que turnarnos para trabajar en casa como tambien hacernos el tiempo para juntarnos a trabajar tanto fisicamente en la universidad, como tambien virtualmente mediante discord. 
+
+* #### Arduino IDE
+Trabajamos principalmente en Arduino por lo que logramos comprender que hacian las distintas partes del codigo, como modificarlo y hacer que aun asi funcionara.
+
+* #### Colorantes alimentarios
+Durante la investigacion para estre proyecto investigamos sobre el verdadero efecto que pueden tener los colorantes alimentarios de las bebidas en nuestros organismos, algunos de ellos causando grave daño a nuestra digestion o acelerando enfermedades terminales graves. 
 
 Dificultades:
 * Processing
