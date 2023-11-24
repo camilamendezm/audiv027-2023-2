@@ -71,11 +71,11 @@ Luego se coloca el archivo resultante del entrenamiento, el archivo "model.h" en
   
 (aquí agregar la info de cada colorante en la clasificacion de los nombres que supuestamente iban a salir en la graficacion, Acido carminico (rojo), Tartrazina (amarillo), Betacaroteno (naranja) y Azul brillante (FCF) (Azul).)
 * Colocar el ejemplo SimpleRead en Processing (Archivo - Ejemplos - Bibliotecas - Serial - SimpleRead).
-* Cambiar línea 22 del código para saber el puerto que está ocupando nuestro Arduino (captura)
+* Cambiar línea 22 del código para saber el puerto que está ocupando nuestro Arduino
 
 ![processing_01.png](imagenes/processing_01.png)
 
-* En processing, agregar valores y asignarles colores en RGB a cada uno. (captura)
+* En processing, agregar valores y asignarles colores en RGB a cada uno.
 
 ![processing_02.png](imagenes/processing_02.png)
 
