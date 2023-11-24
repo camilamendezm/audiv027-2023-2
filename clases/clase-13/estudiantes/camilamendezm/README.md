@@ -22,7 +22,7 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 
 #### Proyecto funcionando
 
-[![Recinocimiento de bebidas y sus colorantes]](https://youtu.be/kJ171F8TPm0?si=oXW3VB14eV2RPeeL)
+[![Reconocimiento de bebidas y sus colorantes](https://i.ytimg.com/an_webp/kJ171F8TPm0/mqdefault_6s.webp?du=3000&sqp=CLmmg6sG&rs=AOn4CLA8O1JtqlxhN7qeBrJJJwh1t8DCcg)](https://youtu.be/kJ171F8TPm0?si=oXW3VB14eV2RPeeL)
 ### Materiales
 
 * Arduino Nano 33LBLE Sense Lite
