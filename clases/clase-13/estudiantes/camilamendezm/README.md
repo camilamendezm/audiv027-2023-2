@@ -8,7 +8,7 @@
    * archivo [google_colab_03.png](/imagenes/google_colab_03.png)
    * archivo [processing_01.png](/imagenes/processing_01.png)
    * archivo [processing_02.png](/imagenes/processing_02.png)
-   * archivo [moddel_h_01.png](/imagenes/model_h_01.png)
+   * archivo [model_h_01.png](/imagenes/model_h_01.png)
 * archivo [README.md](README.md)
   
 # Sobre reconocimiento de bebidas y sus colorantes
@@ -54,7 +54,7 @@ Finalmente encontramos cual era el problema que impedia la realizacion de este a
 * #### Ingresar los resultados en Arduino IDE.
 Luego se coloca el archivo resultante del entrenamiento, el archivo "model.h" en la misma carpeta que el sketch "object_color_classify" para que el codigo pueda encontrarla y leer la base de datos de colores recopilados.
 
-![moddel_h_01.png](imagenes/model_h_01.png)
+![model_h_01.png](imagenes/model_h_01.png)
 
 
 * #### Modificar código en Arduino IDE, añadiendo una variable, cambiando los nombres y otorgarles un carácter.
