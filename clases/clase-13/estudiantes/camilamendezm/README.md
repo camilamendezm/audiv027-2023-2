@@ -99,3 +99,4 @@ Durante la investigación para estre proyecto investigamos sobre el verdadero ef
 Dificultades:
 * Processing
 * Modificar códigos
+* La cámara reconocia el ácido carmínico y la tartrazina como betacaroteno.
