@@ -1,4 +1,4 @@
-#### Contenidos de este repositorio
+### Contenidos de este repositorio
 
 * carpeta [imagenes/](imagenes/):
    * archivo [arduino_01.png](/imagenes/arduino_01.png)
@@ -6,8 +6,8 @@
    * archivo [google_colab_01.png](/imagenes/google_colab_01.png)
    * archivo [google_colab_02.png](/imagenes/google_colab_02.png)
    * archivo [google_colab_03.png](/imagenes/google_colab_03.png)
-   * archivo [arduino_01.png](/imagenes/arduino_01.png)
-   * archivo [arduino_02.png](/imagenes/arduino_02.png)
+   * archivo [processing_01.png](/imagenes/processing_01.png)
+   * archivo [processing_02.png](/imagenes/processing_02.png)
 * archivo [README.md](README.md)
   
 # Sobre reconocimiento de bebidas y sus colorantes
@@ -21,7 +21,7 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 
 #### Proyecto funcionando
 
-#### Materiales
+### Materiales
 
 * Arduino Nano 33ble sense
 * Computador
@@ -43,22 +43,30 @@ Al entrenar el modelo nos encontramos con un problema, puesto que el Google Cola
 * #### Eliminar la sección “Run with Test Data”.
 Finalmente encontramos cual era el problema que impedia la realizacion de este archivo, y logramos resolverlo simplemente eliminando el paso "Run with Test Data" que solo permitia el analisis de 3 colores. (foto)
 
-* #### Descargar carpeta model.h (foto) 
+![google_colab_02.png](imagenes/google_colab_02.png)
+
+* #### Descargar carpeta model.h.
+
+![google_colab_03.png](imagenes/google_colab_03.png)
+
 
 * #### Ingresar los resultados en Arduino IDE.
 
-* Modificar código en Arduino IDE, añadiendo una variable, cambiando los nombres y otorgarles un carácter (captura).
+* #### Modificar código en Arduino IDE, añadiendo una variable, cambiando los nombres y otorgarles un carácter.
+
+![arduino_01](imagenes/arduino_01.png)
+![arduino_02](imagenes/arduino_02.png)
 
 **Proccesing**
   
 * Colocar el ejemplo SimpleRead en Processing (Archivo - Ejemplos - Bibliotecas - Serial - SimpleRead).
 * Cambiar línea 22 del codigo para saber el puerto que está ocupando nuestro Arduino (captura)
+
+![processing_01.png](imagenes/processing_01.png)
+
 * En processing, agregar valores y asignarles colores en RGB a cada uno. (captura)
 
-(video funcionando)
-
-
-
+![processing_02.png](imagenes/processing_02.png)
 
 ### Referentes
 
