@@ -8,6 +8,7 @@
    * archivo [google_colab_03.png](/imagenes/google_colab_03.png)
    * archivo [processing_01.png](/imagenes/processing_01.png)
    * archivo [processing_02.png](/imagenes/processing_02.png)
+   * archivo [moddel_h_01.png](/imagenes/model_h_01.png)
 * archivo [README.md](README.md)
   
 # Sobre reconocimiento de bebidas y sus colorantes
@@ -23,7 +24,7 @@ DOCENTE: [**Aaron Montoya Moraga**](https://github.com/montoyamoraga) - FAU.UCHI
 
 ### Materiales
 
-* Arduino Nano 33ble sense
+* Arduino Nano 33LBLE Sense Lite
 * Computador
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * [Processing](https://processing.org/download)
@@ -53,12 +54,15 @@ Finalmente encontramos cual era el problema que impedia la realizacion de este a
 * #### Ingresar los resultados en Arduino IDE.
 Luego se coloca el archivo resultante del entrenamiento, el archivo "model.h" en la misma carpeta que el sketch "object_color_classify" para que el codigo pueda encontrarla y leer la base de datos de colores recopilados.
 
+![moddel_h_01.png](imagenes/model_h_01.png)
+
+
 * #### Modificar código en Arduino IDE, añadiendo una variable, cambiando los nombres y otorgarles un carácter.
 
 ![arduino_01](imagenes/arduino_01.png)
 ![arduino_02](imagenes/arduino_02.png)
 
-**Proccesing**
+**Processing**
   
 (aqui agregar la info de cada colorante en la clasificacion de los nombres que supuestamente iban a salir en la graficacion, Acido carminico (rojo), Tartrazina (amarillo), Betacaroteno (naranja) y Azul brillante (FCF) (Azul).)
 * Colocar el ejemplo SimpleRead en Processing (Archivo - Ejemplos - Bibliotecas - Serial - SimpleRead).
