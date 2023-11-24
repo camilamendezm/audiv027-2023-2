@@ -47,7 +47,7 @@ Para la creación de esta librería utilizamos "object_color_recognition" y las 
 Al entrenar el modelo nos encontramos con un problema, puesto que el Google Colab no esta preparado para trabajar con 4 colores, para poder hacerlo funcionar tuvimos que encontrar cuál era la parte del proceso que impedía la producción del archivo "model.h" 
 
 * #### Eliminar la sección “Run with Test Data”.
-Finalmente encontramos cual era el problema que impedía la realización de este archivo, y logramos resolverlo simplemente eliminando el paso "Run with Test Data" que solo permitía el análisis de 3 colores. (foto)
+Finalmente encontramos cual era el problema que impedía la realización de este archivo, y logramos resolverlo simplemente eliminando el paso "Run with Test Data" que solo permitía el análisis de 3 colores.
 
 ![google_colab_02.png](imagenes/google_colab_02.png)
 
