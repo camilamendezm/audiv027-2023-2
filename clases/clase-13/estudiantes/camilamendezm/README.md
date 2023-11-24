@@ -10,7 +10,7 @@
    * archivo [processing_02.png](/imagenes/processing_02.png)
    * archivo [model_h_01.png](/imagenes/model_h_01.png)
 * carpeta [arhivos arduino/](/arhivos-arduino):
-   * arhivo [model.h](model.h)
+   * archivo [model.h](model.h)
    * archivo [object color classify](object_color_classify.ino)
 * archivo [README.md](README.md)
   
